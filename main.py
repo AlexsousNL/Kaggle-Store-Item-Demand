@@ -9,7 +9,5 @@ import sklearn
 train = pd.read_csv('train.csv')
 train.head()
 
-
-
 print('End of Program')
 
