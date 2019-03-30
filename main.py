@@ -9,4 +9,6 @@ import sklearn
 train = pd.read_csv('train.csv')
 
 
+print('C ma brache poto')
+
 print('End of Program')
