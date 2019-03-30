@@ -8,7 +8,5 @@ import sklearn
 
 train = pd.read_csv('train.csv')
 
-
-print('C ma brache poto')
-
+print("C plus ma branche")
 print('End of Program')
