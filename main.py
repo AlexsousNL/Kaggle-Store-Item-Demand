@@ -7,7 +7,14 @@ import fbprophet as prophet
 import sklearn
 
 train = pd.read_csv('train.csv')
-train.head()
 
+<<<<<<< HEAD
 print('End of Program')
 
+=======
+#%% 
+
+# TEST NOUVEAU CODE
+
+print('End of Program')
+>>>>>>> master
