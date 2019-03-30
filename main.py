@@ -7,7 +7,9 @@ import fbprophet as prophet
 import sklearn
 
 train = pd.read_csv('train.csv')
+train.head()
 
-print('i was there mofo')
+
 
 print('End of Program')
+
